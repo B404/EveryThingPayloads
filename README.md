@@ -6,6 +6,7 @@ I <3 pull requests :)
 
 You can also contribute with a beer IRL or with `buymeacoffee.com`
 
+Buy the owner of the orginal forked content a coffee. swissky
 [![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoff.ee/swissky)
 
 Every section contains the following files, you can use the `_template_vuln` folder to create a new chapter:
